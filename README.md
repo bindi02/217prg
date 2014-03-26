@@ -1,16 +1,18 @@
 217prg
 ======
-1.An explanation of what a design pattern is
- A design patter is a general reusable solution to an occurring problem in software design. 
+1.An explanation of what adesign pattern is a 
+
+
+design patter is a general reusable solution to an occurring problem in software design. 
  It can also be described as a blue print to handle recurring problems in software development.
  And as the article mentions is a template on how we solve problems. 
- Patterns can be divided into three categories: constructional, structural and behavioral patterns.
+ Patterns can be divided into three categories: Creational, structural and behavioral patterns.
  
  
  2.An explanation of each respective pattern in terms of what it is and why it is used.
  
  
- A constructional pattern focuses on ways to create objects or classes. 
+ A Creational pattern focuses on ways to create objects or classes. 
  It’s helpful because it let us avoid repetition and it helps us keep track of the objects created. 
  A constructor pattern creates objects to be used by functions both locally and globally.
  It has some drawbacks too and it needs a constructor hence the name.
@@ -29,7 +31,8 @@
  
  
  A Behavioral pattern primarily focuses on communication between objects.
- A decorator pattern promotes code reusability and is a flexible alternative to sub-classing. 
+ Behavioral patterns focus on improving the communication between
+ disparate objects in a system.
  It allows the user to modify existing objects without the need to change the 
  underlying code. It also allows adding functionality or features later on. So it lets 
  the user add stuff as he sees without the need to modify the entire code structure.
